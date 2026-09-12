@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infinity Clock</string>
+    <string name="widget_config_title">Configure Infinity Clock Widget</string>
+    <string name="widget_description">Live Infinity Clock launcher widget</string>
+    <string name="widget_small_name">Infinity Clock Small</string>
+    <string name="widget_medium_name">Infinity Clock Medium</string>
+    <string name="widget_large_name">Infinity Clock Large</string>
+    <string name="live_wallpaper_name">Infinity Clock Live Wallpaper</string>
+    <string name="live_wallpaper_description">Animated Infinity Clock on your home screen wallpaper</string>
+    <string name="live_wallpaper_settings_title">Infinity Live Wallpaper Pro</string>
+</resources>
